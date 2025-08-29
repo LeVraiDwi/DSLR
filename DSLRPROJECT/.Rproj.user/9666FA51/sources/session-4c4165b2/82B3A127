@@ -1,0 +1,26 @@
+{
+    "id": "82B3A127",
+    "path": "~/DSLRPROJECT/scripts/histogram.R",
+    "project_path": "scripts/histogram.R",
+    "type": "r_source",
+    "hash": "968586932",
+    "contents": "",
+    "dirty": false,
+    "created": 1756471056041.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "5,13",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1756471450,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1756471450877,
+    "read_only": false,
+    "read_only_alternatives": []
+}
